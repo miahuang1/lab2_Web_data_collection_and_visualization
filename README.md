@@ -20,7 +20,7 @@ The possible reasons for the patterns I observed in the word clouds for Los Ange
 
 ## v.Improved in the Future
 
-I could improve my research in the future by using search words that discuss economic impact or price increase. Search words like local businesses,tech sector, and employment.Price increase does help me narrow search but only including that specifcially mentiom price increase,using more research word could help me find tweets that discuss economic without explicitly using the word price increase. Also, I think a more thorough understanding may be obtained by doing a more in-depth examination of demographic variables, local policy influences, and more detailed data on consumer spending habits.
+I could improve my research in the future by using more search words that discuss economic impact or price increase. Search words like local businesses, tech sector, and employment.Price increase does help me narrow search but only including that specifically mention price increase, using more research word could help me find tweets that discuss economic without explicitly using the word price increase. Also, I think a more thorough understanding may be obtained by doing a more in-depth examination of demographic variables, local policy influences, and more detailed data on consumer spending habits.
 
 ## vi. Expectaion
 
